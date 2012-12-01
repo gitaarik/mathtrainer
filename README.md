@@ -1,3 +1,6 @@
+MathTrainer
+====================================
+
 Run the program like:
 python mathtrainer
 
